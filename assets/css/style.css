@@ -101,6 +101,9 @@ nav a:first-child {
 }
 
 /* footer */
+#sticky-footer {
+  flex-shrink: none;
+}
 
 footer {
   padding: 30px 0;
