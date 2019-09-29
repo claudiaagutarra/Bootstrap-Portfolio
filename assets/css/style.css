@@ -220,3 +220,8 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+@media (max-width: 500px) {
+  .auth-image {
+    text-align: center;
+  }
+}
